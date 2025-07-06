@@ -1,0 +1,26 @@
+[
+  {
+    "question": "Who can apply to join the club?",
+    "answer": "Any student who is passionate about tech, teamwork, and learning is welcome to apply — regardless of branch or year."
+  },
+  {
+    "question": "Can I apply for multiple roles?",
+    "answer": "Yes, you can apply for multiple roles if you're interested in contributing to more than one domain (e.g., Development, Design, Content, etc.)."
+  },
+  {
+    "question": "What happens after I apply?",
+    "answer": "Your application will be reviewed by the admin team. If shortlisted, you’ll receive an interview schedule and may be assigned a small task based on the role."
+  },
+  {
+    "question": "Do I need prior experience to get selected?",
+    "answer": "Not at all! We value learning attitude, curiosity, and dedication. Skills can be taught, passion cannot."
+  },
+  {
+    "question": "Who should I contact if I face issues while applying?",
+    "answer": "You can reach out to us at [clubmail@example.com] or message any team member mentioned on the portal."
+  },
+  {
+    "question": "Is it mandatory to submit a resume?",
+    "answer": "Yes, a resume helps us understand your background, skills, and interests better. Even a basic one is fine."
+  }
+]
